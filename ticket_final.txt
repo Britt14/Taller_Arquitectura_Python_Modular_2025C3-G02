@@ -1,0 +1,5 @@
+cerezas:2000
+pan:2275
+queso:5000
+leche:840
+bananos:150
